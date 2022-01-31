@@ -5,3 +5,7 @@ exp_output
 *.npy
 data/__MACOSX/._Lizard_Images1
 data/__MACOSX/._Lizard_Images2
+*.png
+*.DS_Store
+*.jpg
+*.mat
