@@ -9,3 +9,5 @@ data/__MACOSX/._Lizard_Images2
 *.DS_Store
 *.jpg
 *.mat
+*.dat
+pretrained/hovernet-conic.pth
